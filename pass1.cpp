@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include "symtab.txt"
 using namespace std;
 
 int main() {
